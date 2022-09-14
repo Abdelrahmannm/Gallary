@@ -1,7 +1,0 @@
-<?php
-
-
-echo "Allah Akbr";
-
-
-?>
