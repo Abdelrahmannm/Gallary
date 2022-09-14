@@ -1,0 +1,19 @@
+.home_page_photo {
+    width: 200px;
+    height: 200px !important;
+}
+
+.row2 {
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.pager .active a {
+    background-color: rgb(5, 5, 5);
+    color: #fff;
+}
+
+.pager .active a:hover {
+    background-color:#000;
+    color: #fff;
+}

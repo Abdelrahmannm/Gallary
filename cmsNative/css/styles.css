@@ -1,0 +1,16 @@
+.pager li .active_link {
+    background: #33B2FF !important;
+}
+
+.row {
+    margin-left: 1px;
+    margin-bottom: 5px;
+}
+
+a.like {
+    font-size: 22px !important;
+}
+
+a.unlike {
+    font-size: 22px !important;
+}
